@@ -2,9 +2,9 @@
 header("Content-Type: application/json");
 
 $servername = "localhost";
-$username = "root";
-$password = "root";
-$dbname = "tienda_online";
+$username = "syswebgr_test";
+$password = "syswebgr_test";
+$dbname = "syswebgr_tienda_online";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
