@@ -14,7 +14,7 @@ Este repositorio contiene el código para una tienda online básica que acepta d
 1. Clona este repositorio en tu servidor web.
 2. Importa el archivo `tienda_online.sql` en tu base de datos MySQL.
 3. Configura las credenciales de la base de datos en el archivo `peticion.php`.
-4. Abre el archivo `formulario.php` en tu navegador y realiza transacciones de prueba.
+4. Abre el archivo `index.php` en tu navegador y realiza transacciones de prueba.
 
 ## 🧪 Pruebas
 
